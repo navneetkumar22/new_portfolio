@@ -70,6 +70,16 @@
     .about {
         padding: 3rem;
         height: auto;
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .about-div {
+        width: 100%;
+    }
+
+    .about-btn img {
+        height: 35px;
     }
 }
 

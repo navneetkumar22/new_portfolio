@@ -59,6 +59,15 @@
         flex-direction: column;
     }
 
+    .service-box {
+        height: auto;
+        width: 100%;
+    }
+
+    .service-box img {
+        width: 10%;
+    }
+
     .service-box h3 {
         font-size: 1rem;
     }

@@ -27,12 +27,12 @@ const About = () => {
                 <div className='about-text'>
                     <h2>About <span className='text-span'>Me</span></h2>
                     <h4>Full Stack Engineer!</h4>
-                    <p>I'm a certified Full Stack JavaScript Developer (certified from iNeuron.ai, now PW Skills) with an experience of around 01 year of learning and developing various aspects of fullstack web development. So far made 45+ projects in frontend and backend.</p>
+                    <p>I'm a certified Full Stack JavaScript Developer certified from iNeuron.ai (now PW Skills) with an experience of around 01 year of learning and developing various aspects of fullstack web development. So far made 45+ projects in frontend and backend.</p>
                 </div>
                 <div className='about-btn'>
                     <a href='https://navneet90.hashnode.dev' target='blank'><img src={hashnodeImg} alt='social' /></a>
-                    <a href='https://www.linkedin.com/in/navneetkumar22/' target='blank'><img src={githubImg} alt='social' /></a>
-                    <a href='https://github.com/navneetkumar22' target='blank'><img src={linkedinImg} alt='social' /></a>
+                    <a href='https://github.com/navneetkumar22' target='blank'><img src={githubImg} alt='social' /></a>
+                    <a href='https://www.linkedin.com/in/navneetkumar22/' target='blank'><img src={linkedinImg} alt='social' /></a>
                 </div>
             </div>
 
