@@ -15,14 +15,14 @@ export const fullStack = [
     },
     {
         id: 3,
-        title: "CRUD Application",
+        title: "CRUD App - React",
         image: "https://raw.githubusercontent.com/navneetkumar22/crud_express_react/main/Screenshot.png",
         github: "https://github.com/navneetkumar22/crud_express_react",
         live: "https://playful-begonia-09bdc5.netlify.app/"
     },
     {
         id: 4,
-        title: "CRUD Application",
+        title: "CRUD App - Vanilla JS",
         image: "https://raw.githubusercontent.com/navneetkumar22/crud_app_fetchApi/main/Screenshot.png",
         github: "https://github.com/navneetkumar22/crud_app_fetchApi",
         live: "https://crud-fetchapi.netlify.app"
@@ -340,6 +340,13 @@ export const vanillaJS = [
         github: "https://github.com/navneetkumar22/JavaScript_Assignments/tree/master/15Calculator",
         live: "https://basic-calculatorjs.netlify.app"
     },
+    {
+        id: 15,
+        title: "CRUD App - Vanilla JS",
+        image: "https://raw.githubusercontent.com/navneetkumar22/crud_app_fetchApi/main/Screenshot.png",
+        github: "https://github.com/navneetkumar22/crud_app_fetchApi",
+        live: "https://crud-fetchapi.netlify.app"
+    }
 ]
 
 export const funWithDom = [
