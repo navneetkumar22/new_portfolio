@@ -1,0 +1,72 @@
+.card {
+    padding: 5px;
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    line-height: 6px;
+    margin: auto;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.image-div img {
+    width: 250px;
+    height: 140px;
+    transition: 0.4s ease;
+    /* background-color: black; */
+}
+
+.image-div img:hover {
+    transform: scale(1.03);
+    cursor: pointer;
+    opacity: 0.3;
+}
+
+.card p {
+    font-size: small;
+    color: #999898;
+}
+
+.card button {
+    padding: 4px 10px;
+    border: none;
+    background-color: darkcyan;
+    color: white;
+    font-size: smaller;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.card button:active {
+    transform: scale(0.97);
+}
+
+.details {
+    position: absolute;
+    z-index: 99;
+    width: 60%;
+}
+
+.details h2 {
+    color: darkcyan;
+    font-size: medium;
+}
+
+.details-btn {
+    margin-top: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+@media screen and (max-width:350px) {
+    .image-div img {
+        width: 220px;
+        height: 120px;
+    }
+}
