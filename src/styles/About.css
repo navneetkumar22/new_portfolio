@@ -94,4 +94,8 @@
     .about-text p {
         font-size: smaller;
     }
+
+    .about-btn img {
+        height: 30px;
+    }
 }

@@ -7,13 +7,14 @@ const Home = () => {
 
     useEffect(() => {
         const sr1 = ScrollReveal({
-            duration: 1000,
+            duration: 2000,
             delay: 200,
             easing: 'ease-out',
             origin: 'left',
             distance: '50px'
         });
         sr1.reveal('.text');
+        sr1.reveal('.resume');
     });
 
     return (

@@ -70,6 +70,9 @@
 
 @media screen and (max-width:420px) {
 
+    .service-box{
+        width: 100%;
+    }
     .service-box p {
         font-size: smaller;
     }

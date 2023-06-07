@@ -10,13 +10,13 @@ const About = () => {
 
     useEffect(() => {
         const sr1 = ScrollReveal({
-            duration: 1000,
+            duration: 2000,
             delay: 200,
             easing: 'ease-out',
             origin: 'bottom',
             distance: '60px'
         });
-        sr1.reveal('.about-div');
+        sr1.reveal('.about-div div');
     })
     return (
         <section className='about' id='about'>

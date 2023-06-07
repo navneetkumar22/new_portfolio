@@ -59,11 +59,14 @@ a:hover {
 
 @media screen and (max-width:420px) {
     .navbar {
-        padding: 1rem 3rem;
+        padding: 0.7rem 3rem;
     }
 
     .logo {
         margin: auto;
+    }
+    .logo h1{
+        font-size: 1rem;
     }
 
     .nav-items {

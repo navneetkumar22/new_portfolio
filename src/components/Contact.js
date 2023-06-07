@@ -6,13 +6,14 @@ const Contact = () => {
 
     useEffect(() => {
         const sr1 = ScrollReveal({
-            duration: 1000,
+            duration: 1500,
             delay: 200,
             easing: 'ease-out',
             origin: 'bottom',
-            distance: '50px'
+            distance: '80px'
         });
         sr1.reveal('.contact-box div');
+        sr1.reveal('.contact-btn');
     })
     return (
         <section className='contacts' id='contact'>
