@@ -156,22 +156,22 @@ export const tailwind = [
         id: 1,
         title: "Paytm Page",
         image: "https://raw.githubusercontent.com/navneetkumar22/portfolio/master/thumbnails/paytm.png",
-        github: "https://github.com/navneetkumar22/streetstylepage",
-        live: "https://navneet-project01.netlify.app/"
+        github: "https://github.com/navneetkumar22/Paytm_Clone_tailwind",
+        live: "https://navneet-paytm.netlify.app"
     },
     {
         id: 2,
-        title: "Paytm Page",
+        title: "RØDE Page",
         image: "https://raw.githubusercontent.com/navneetkumar22/portfolio/master/thumbnails/rode.png",
-        github: "https://github.com/navneetkumar22/streetstylepage",
-        live: "https://navneet-project01.netlify.app/"
+        github: "https://github.com/navneetkumar22/Rode_Clone_tailwind",
+        live: "https://navneet-rode.netlify.app"
     },
     {
         id: 3,
-        title: "Paytm Page",
+        title: "Shopify Page",
         image: "https://raw.githubusercontent.com/navneetkumar22/portfolio/master/thumbnails/shopify.png",
-        github: "https://github.com/navneetkumar22/streetstylepage",
-        live: "https://navneet-project01.netlify.app/"
+        github: "https://github.com/navneetkumar22/Shopify_Clone_tailwind",
+        live: "https://navneet-shopify.netlify.app"
     },
 ]
 
