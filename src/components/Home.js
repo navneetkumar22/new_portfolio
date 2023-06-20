@@ -30,7 +30,7 @@ const Home = () => {
 
                 </div>
                 <div className='resume'>
-                    <button>Download CV</button>
+                    <a href='https://drive.google.com/file/d/1z1JRzKDvd8lPNienfjNU4TNDTOsslYdc/view?usp=sharing' target='blank'><button>Download CV</button></a>
                 </div>
             </div>
             <div className='photo'>
