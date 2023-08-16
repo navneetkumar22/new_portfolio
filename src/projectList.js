@@ -3,7 +3,7 @@ export const fullStack = [
         id: 1,
         title: "E-Commerce App - MERN",
         image: "https://raw.githubusercontent.com/navneetkumar22/e_commerce_frontend/main/src/screenshots/screenshot.png",
-        github: "https://github.com/navneetkumar22/e_commerce_frontend",
+        github: "https://github.com/navneetkumar22/ecommerce_project",
         live: "https://github.com/navneetkumar22/e_commerce_frontend"
     },
     {
